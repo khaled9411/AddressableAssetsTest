@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb95b6d4b814324e9d1259195de29ca, type: 3}
+  m_Name: Script To Creat Assets Refeanse Type
+  m_EditorClassIdentifier: 
+  gameObject: {fileID: 7680915959694387059, guid: b1b2280afa8ac4047b1f5b0d0e39a97f, type: 3}

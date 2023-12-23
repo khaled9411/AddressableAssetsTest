@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 18173f3f74921c644b059072a67ce3b2
+  m_SerializeEntries:
+  - m_GUID: 9a9203e7ece40404cac34028604fea1d
+    m_Address: Assets/Prefabs1/CR-TAXI-1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdb1ad647e2915841a7a19c64a795b14
+    m_Address: Assets/Prefabs1/26-B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84e28dd8329ebdd48a21caef47dc21c8
+    m_Address: Assets/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - All
+  - m_GUID: 6102045cca008ff4ca63047d09a1cf90
+    m_Address: Assets/Prefabs1/27.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - car
+  - m_GUID: 3f0d7b979e365d3429ba1da47d6acffa
+    m_Address: Assets/Prefabs1/27-S.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e647e959c5358aa49988b75a6a7477bd
+    m_Address: Assets/Prefabs1/CR-MINI-6B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b625d10864394ff4d8e91eb482cff1c1
+    m_Address: Assets/Prefabs1/Script To Creat Assets Refeanse Type.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d59574758d7994a49abc14346f18bb37, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2c36a3f189a06464081102db3a3dcdcd, type: 2}
+    - {fileID: 11400000, guid: f13a6eeed14fd63409ec443431644d89, type: 2}
